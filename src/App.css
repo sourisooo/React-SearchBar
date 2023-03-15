@@ -1,0 +1,12 @@
+#opinion {
+
+    font-family: 'Gambetta', serif;
+    transition: 700ms ease;
+    margin-bottom: 0.8rem;
+    outline: none;
+    text-align: center;
+  }
+
+  #opinion:hover {
+
+  }
